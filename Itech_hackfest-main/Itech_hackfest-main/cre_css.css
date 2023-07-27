@@ -1,0 +1,121 @@
+   body{
+        background-color:white;
+      }
+
+      .h1tag{
+        padding-bottom:40px;
+        color:white;
+      }
+
+      .main-container{
+        margin-top:40px;
+        margin-left:350px;
+        margin-right:350px;
+        border-radius:30px;
+        background-color:#319DA0;
+      }
+      form{
+
+        padding:10px;
+
+      }
+
+      table,tr,td{
+        padding:5px;
+        padding-bottom: 30px;
+        color:white;
+      }
+
+      table{
+        font-size:20px;
+      }
+
+      .boxcontain{
+        border:none;
+        background:transparent;
+        border-bottom:1px solid white;
+        height:30px;
+        width:400px;S
+      }
+
+      .boxcontain1{
+        border:none;
+        background:transparent;
+        border-bottom:1px solid white;
+        height:150px;
+        width:400px;S
+      }
+
+      .form_submit{
+        height:50px;
+        width:100px;
+        color:white;
+        background-color:grey;
+        border:none;
+        border-radius:30px;
+      }
+
+      .form_submit:hover{
+        background-color:greenyellow;
+        color:black;
+      }   body{
+        background-color:white;
+      }
+
+      .h1tag{
+        padding-bottom:40px;
+        color:white;
+      }
+
+      .main-container{
+        margin-top:40px;
+        margin-left:350px;
+        margin-right:350px;
+        border-radius:30px;
+        background-color:#319DA0;
+      }
+      form{
+
+        padding:10px;
+
+      }
+
+      table,tr,td{
+        padding:5px;
+        padding-bottom: 30px;
+        color:white;
+      }
+
+      table{
+        font-size:20px;
+      }
+
+      .boxcontain{
+        border:none;
+        background:transparent;
+        border-bottom:1px solid white;
+        height:30px;
+        width:400px;S
+      }
+
+      .boxcontain1{
+        border:none;
+        background:transparent;
+        border-bottom:1px solid white;
+        height:150px;
+        width:400px;S
+      }
+
+      .form_submit{
+        height:50px;
+        width:100px;
+        color:white;
+        background-color:grey;
+        border:none;
+        border-radius:30px;
+      }
+
+      .form_submit:hover{
+        background-color:greenyellow;
+        color:black;
+      }
