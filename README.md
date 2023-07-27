@@ -1,0 +1,3 @@
+# ADSE
+Summary:
+<h3>ADSE</h3> is a project aimed at supporting small YouTubers by resolving their challenges and creating a sustainable revenue flow through the involvement of investors. The platform offers solutions to the issues faced by content creators and attracts investors to invest in these creators' ventures. By providing financial support to YouTubers, "adse" aims to foster a thriving YouTube community while generating revenue for both creators and investors. The project emphasizes fairness, transparency, and a user-friendly interface to build a trustworthy environment for all stakeholders. The success of "adse" depends on effectively engaging investors, complying with legal regulations, and continuously improving the platform based on user feedback.
